@@ -15,6 +15,17 @@
  e-mail   :  kristianl@tkjelectronics.com
  */
 
+/*
+
+Modifierd by: Gordon Xu
+
+serve the purpose of records accleration reading from free falling object.
+
+Web:http://gordonxu.top
+
+
+*/
+
 #include <Wire.h>
 #include <Kalman.h> // Source: https://github.com/TKJElectronics/KalmanFilter
 #include <SD.h>
